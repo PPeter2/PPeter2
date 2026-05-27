@@ -22,7 +22,7 @@
 
 <div align="left">
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/logo-python-blue?logo=python" />
+  <img src="https://img.shields.io/badge/python-yellow?logo=python" />
   <img src="https://shields.io" />
   <img src="https://shields.io" />
   <!-- Frameworks & Libs -->
