@@ -3,27 +3,18 @@
 </div>
 
 <div align="center">
-  <h3>🚀 Full-Stack Developer | Open Source Enthusiast | Tech Blogger</h3>
-  <p>Building scalable web applications, optimizing database performance, and exploring automated infrastructure.</p>
-</div>
-
-<div align="center">
-  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn" /></a>
-  <a href="https://twitter.com"><img src="https://shields.io" alt="Twitter" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://shields.io" alt="Email" /></a>
-  <a href="https://YOUR_PORTFOLIO_WEBSITE.com"><img src="https://shields.io" alt="Website" /></a>
+  <h3>🚀 Junior Developer | Self-Taught Developer</h3>
+  <p>Self-taught developer building personal projects to broaden my knowledge and master modern technologies.</p>
 </div>
 
 ---
 
 ### 💫 About Me
 
-- 🔭 **Current Focus**: Working on building a production-ready microservices mesh architecture.
-- 🌱 **Learning Path**: Diving deeper into **Kubernetes cloud orchestration** and **Rust systems programming**.
+- 🔭 **Current Focus**: Working on building solid apps across multiple tech domains.
+- 🌱 **Learning Path**: Diving deeper into **Python** and **C** programming languages.
 - 👯 **Collaboration**: Open to contributing to innovative **open-source developer tooling**.
-- 🤔 **Getting Help**: Looking for guidance on mastering advanced graphic rendering optimizations.
-- 💬 **Ask Me About**: Clean architecture patterns, TypeScript ecosystems, or system design.
-- ⚡ **Fun Fact**: I can debug asynchronous race conditions but still can't brew a perfect cup of espresso.
+- ⚡ **Fun Fact**: I can make a solid front-end app but not the back-end work
 
 ---
 
@@ -31,7 +22,7 @@
 
 <div align="left">
   <!-- Languages -->
-  <img src="https://shields.io" />
+  <img src="https://img.shields.io/badge/logo-python-blue?logo=python" />
   <img src="https://shields.io" />
   <img src="https://shields.io" />
   <!-- Frameworks & Libs -->
